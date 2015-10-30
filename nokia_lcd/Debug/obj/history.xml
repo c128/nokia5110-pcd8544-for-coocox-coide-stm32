@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -g2 -Wall -O1 -c -DSTM32F401RE -D__FPU_USED -I..\..\..\..\..\..\..\CoIDE\workspace\nokia_lcd\components\coocox-master\cmsis_core\source -I..\..\..\..\..\..\..\CoIDE\workspace\nokia_lcd\components\coocox-master -I..\..\..\..\..\..\..\CoIDE\workspace\nokia_lcd\components\coocox-master\STM32F401xE_CUBELIB -I..\..\..\..\..\..\..\CoIDE\workspace\nokia_lcd\app\NOKIA_LCD -I..\..\..\..\..\..\..\CoIDE\workspace\nokia_lcd\components\coocox-master\cmsis_core -I..\..\..\..\..\..\..\CoIDE\workspace\nokia_lcd\app -I..\..\..\..\..\..\..\CoIDE\workspace\nokia_lcd\components\coocox-master\STM32F401xE_CUBELIB\source -I..\..\..\..\..\..\..\CoIDE\workspace\nokia_lcd -I..\..\..\..\..\..\..\CoIDE\workspace">
+      <target file="stm32f4xx_hal_tim.o" lastModified="150b9060614">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_tim.c" lastModified="150b7b5cd1e"/>
+      </target>
+      <target file="stm32f4xx_hal_sd.o" lastModified="150b9061c75">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_sd.c" lastModified="150b7b5cd2d"/>
+      </target>
+      <target file="stm32f4xx_hal_flash_ramfunc.o" lastModified="150b905f87d">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_flash_ramfunc.c" lastModified="150b7b5cd6c"/>
+      </target>
+      <target file="stm32f4xx_hal_wwdg.o" lastModified="150b907ce0c">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_wwdg.c" lastModified="150b7b5cdaa"/>
+      </target>
+      <target file="stm32f4xx_hal_flash.o" lastModified="150b9061489">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_flash.c" lastModified="150b7b5ccff"/>
+      </target>
+      <target file="stm32f4xx_hal_cortex.o" lastModified="150b9062a2d">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_cortex.c" lastModified="150b7b5cd0e"/>
+      </target>
+      <target file="stm32f4xx_hal_dcmi.o" lastModified="150b90625d8">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_dcmi.c" lastModified="150b7b5cca1"/>
+      </target>
+      <target file="stm32f4xx_hal_dma_ex.o" lastModified="150b90620e8">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_dma_ex.c" lastModified="150b7b5cc43"/>
+      </target>
+      <target file="stm32f4xx_hal_cec.o" lastModified="150b9063cac">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_cec.c" lastModified="150b7b5cc63"/>
+      </target>
+      <target file="stm32f4xx_hal_dac_ex.o" lastModified="150b9063bd1">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_dac_ex.c" lastModified="150b7b5cca1"/>
+      </target>
+      <target file="stm32f4xx_hal_eth.o" lastModified="150b905feb5">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_eth.c" lastModified="150b7b5cdaa"/>
+      </target>
+      <target file="stm32f4xx_ll_fsmc.o" lastModified="150b905ff51">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_ll_fsmc.c" lastModified="150b7b5cd8b"/>
+      </target>
+      <target file="stm32f4xx_hal_rtc.o" lastModified="150b90600b7">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_rtc.c" lastModified="150b7b5cd9b"/>
+      </target>
+      <target file="stm32f4xx_hal_pccard.o" lastModified="150b9063af7">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_pccard.c" lastModified="150b7b5ccb1"/>
+      </target>
+      <target file="stm32f4xx_hal_rcc.o" lastModified="150b90627d6">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_rcc.c" lastModified="150b7b5cd2d"/>
+      </target>
+      <target file="stm32f4xx_hal_can.o" lastModified="150b906160f">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_can.c" lastModified="150b7b5cc91"/>
+      </target>
+      <target file="stm32f4xx_hal_fmpi2c_ex.o" lastModified="150b9060dc6">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_fmpi2c_ex.c" lastModified="150b7b5cc82"/>
+      </target>
+      <target file="stm32f4xx_hal_dac.o" lastModified="150b90618cd">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_dac.c" lastModified="150b7b5ccc0"/>
+      </target>
+      <target file="stm32f4xx_hal_spdifrx.o" lastModified="150b9061831">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_spdifrx.c" lastModified="150b7b5cd3d"/>
+      </target>
+      <target file="stm32f4xx_hal_pwr.o" lastModified="150b9061573">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_pwr.c" lastModified="150b7b5cd4d"/>
+      </target>
+      <target file="stm32f4xx_hal_rcc_ex.o" lastModified="150b906224f">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_rcc_ex.c" lastModified="150b7b5cd2d"/>
+      </target>
+      <target file="stm32f4xx_hal_uart.o" lastModified="150b90602ba">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_uart.c" lastModified="150b7b5cd6c"/>
+      </target>
+      <target file="stm32f4xx_hal_rng.o" lastModified="150b905fbf7">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_rng.c" lastModified="150b7b5ccff"/>
+      </target>
+      <target file="stm32f4xx_hal_adc.o" lastModified="150b9062d97">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_adc.c" lastModified="150b7b5cc63"/>
+      </target>
+      <target file="stm32f4xx_hal.o" lastModified="150b9061f05">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal.c" lastModified="150b7b5cd3d"/>
+      </target>
+      <target file="stm32f4xx_hal_rtc_ex.o" lastModified="150b9061e1b">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_rtc_ex.c" lastModified="150b7b5cdaa"/>
+      </target>
+      <target file="stm32f4xx_nucleo.o" lastModified="150b90612c5">
+         <source file="..\..\..\app\stm32f4xx_nucleo.c" lastModified="150b7b5beb7"/>
+      </target>
+      <target file="startup_stm32f401xe.o" lastModified="150b90600e6">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\startup_stm32f401xe.S" lastModified="150b7b5cd4d"/>
+      </target>
+      <target file="stm32f4xx_hal_sdram.o" lastModified="150b90624de">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_sdram.c" lastModified="150b7b5cd8b"/>
+      </target>
+      <target file="stm32f4xx_hal_dma2d.o" lastModified="150b90607f8">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_dma2d.c" lastModified="150b7b5cd0e"/>
+      </target>
+      <target file="clock_start.o" lastModified="150b9250380">
+         <source file="..\..\..\app\clock_start.c" lastModified="150b92438c3"/>
+      </target>
+      <target file="stm32f4xx_hal_hash.o" lastModified="150b9064582">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_hash.c" lastModified="150b7b5cc72"/>
+      </target>
+      <target file="stm32f4xx_hal_dma.o" lastModified="150b907cbcb">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_dma.c" lastModified="150b7b5cd7b"/>
+      </target>
+      <target file="stm32f4xx_ll_fmc.o" lastModified="150b90642d3">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_ll_fmc.c" lastModified="150b7b5cc91"/>
+      </target>
+      <target file="nokia_lcd.o" lastModified="150b93bf098">
+         <source file="..\..\..\app\NOKIA_LCD\nokia_lcd.c" lastModified="150b93be786"/>
+      </target>
+      <target file="stm32f4xx_hal_flash_ex.o" lastModified="150b90628f5">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_flash_ex.c" lastModified="150b7b5cd5c"/>
+      </target>
+      <target file="stm32f4xx_hal_sram.o" lastModified="150b9063a3c">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_sram.c" lastModified="150b7b5cc72"/>
+      </target>
+      <target file="stm32f4xx_hal_dcmi_ex.o" lastModified="150b907cd13">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_dcmi_ex.c" lastModified="150b7b5cd9b"/>
+      </target>
+      <target file="stm32f4xx_hal_i2c_ex.o" lastModified="150b9063776">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_i2c_ex.c" lastModified="150b7b5cd3d"/>
+      </target>
+      <target file="stm32f4xx_hal_sai_ex.o" lastModified="150b9062af8">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_sai_ex.c" lastModified="150b7b5cdaa"/>
+      </target>
+      <target file="stm32f4xx_hal_sai.o" lastModified="150b907c758">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_sai.c" lastModified="150b7b5cd4d"/>
+      </target>
+      <target file="stm32f4xx_hal_hash_ex.o" lastModified="150b906075c">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_hash_ex.c" lastModified="150b7b5cd8b"/>
+      </target>
+      <target file="stm32f4xx_hal_crc.o" lastModified="150b9062339">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_crc.c" lastModified="150b7b5cc63"/>
+      </target>
+      <target file="stm32f4xx_hal_smartcard.o" lastModified="150b9060b81">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_smartcard.c" lastModified="150b7b5ccc0"/>
+      </target>
+      <target file="stm32f4xx_hal_nor.o" lastModified="150b90638a6">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_nor.c" lastModified="150b7b5cd2d"/>
+      </target>
+      <target file="stm32f4xx_hal_i2c.o" lastModified="150b905fb5b">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_i2c.c" lastModified="150b7b5cd5c"/>
+      </target>
+      <target file="stm32f4xx_hal_tim_ex.o" lastModified="150b90641da">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_tim_ex.c" lastModified="150b7b5cd9b"/>
+      </target>
+      <target file="stm32f4xx_hal_spi.o" lastModified="150b905f7d2">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_spi.c" lastModified="150b7b5cc63"/>
+      </target>
+      <target file="stm32f4xx_hal_pcd_ex.o" lastModified="150b9063583">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_pcd_ex.c" lastModified="150b7b5cd6c"/>
+      </target>
+      <target file="stm32f4xx_hal_cryp.o" lastModified="150b9063341">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_cryp.c" lastModified="150b7b5ccdf"/>
+      </target>
+      <target file="stm32f4xx_hal_ltdc.o" lastModified="150b905fca2">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_ltdc.c" lastModified="150b7b5cd1e"/>
+      </target>
+      <target file="stm32f4xx_hal_pcd.o" lastModified="150b906318d">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_pcd.c" lastModified="150b7b5cd0e"/>
+      </target>
+      <target file="stm32f4xx_hal_msp.o" lastModified="150b905fd4e">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_msp.c" lastModified="150b7b5cd6c"/>
+      </target>
+      <target file="stm32f4xx_ll_sdmmc.o" lastModified="150b90643bd">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_ll_sdmmc.c" lastModified="150b7b5cd1e"/>
+      </target>
+      <target file="stm32f4xx_hal_i2s_ex.o" lastModified="150b9061074">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_i2s_ex.c" lastModified="150b7b5cd7b"/>
+      </target>
+      <target file="stm32f4xx_hal_i2s.o" lastModified="150b9062f7a">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_i2s.c" lastModified="150b7b5cd0e"/>
+      </target>
+      <target file="stm32f4xx_it.o" lastModified="150b92331ba">
+         <source file="..\..\..\app\stm32f4xx_it.c" lastModified="150b7b5be98"/>
+      </target>
+      <target file="stm32f4xx_hal_qspi.o" lastModified="150b9062413">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_qspi.c" lastModified="150b7b5ccd0"/>
+      </target>
+      <target file="stm32f4xx_hal_gpio.o" lastModified="150b906369b">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_gpio.c" lastModified="150b7b5ccdf"/>
+      </target>
+      <target file="stm32f4xx_hal_cryp_ex.o" lastModified="150b90644b7">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_cryp_ex.c" lastModified="150b7b5cc53"/>
+      </target>
+      <target file="stm32f4xx_hal_fmpi2c.o" lastModified="150b90606b0">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_fmpi2c.c" lastModified="150b7b5cca1"/>
+      </target>
+      <target file="stm32f4xx_hal_iwdg.o" lastModified="150b905fe09">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_iwdg.c" lastModified="150b7b5ccb1"/>
+      </target>
+      <target file="main.o" lastModified="150b939866f">
+         <source file="..\..\..\app\main.c" lastModified="150b9397a28"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="150b9062bf1">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\system_stm32f4xx.c" lastModified="150b7b5ccd0"/>
+      </target>
+      <target file="stm32f4xx_hal_hcd.o" lastModified="150b9063ece">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_hcd.c" lastModified="150b7b5cc91"/>
+      </target>
+      <target file="stm32f4xx_hal_nand.o" lastModified="150b9063971">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_nand.c" lastModified="150b7b5cd0e"/>
+      </target>
+      <target file="stm32f4xx_ll_usb.o" lastModified="150b9060a29">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_ll_usb.c" lastModified="150b7b5cd8b"/>
+      </target>
+      <target file="stm32f4xx_hal_irda.o" lastModified="150b9061786">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_irda.c" lastModified="150b7b5cc43"/>
+      </target>
+      <target file="stm32f4xx_hal_usart.o" lastModified="150b9060d26">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_usart.c" lastModified="150b7b5cca1"/>
+      </target>
+      <target file="stm32f4xx_hal_pwr_ex.o" lastModified="150b9063fd7">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_pwr_ex.c" lastModified="150b7b5cc91"/>
+      </target>
+      <target file="stm32f4xx_hal_adc_ex.o" lastModified="150b90619f6">
+         <source file="..\..\..\components\coocox-master\STM32F401xE_CUBELIB\source\stm32f4xx_hal_adc_ex.c" lastModified="150b7b5ccc0"/>
+      </target>
+   </processor>
+</history>
